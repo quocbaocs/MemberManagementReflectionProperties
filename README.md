@@ -1,10 +1,10 @@
 ## URL							Servlet							JSP
-+ /auth/login.html				LogInController					/auth/LoginForm.jsp
-+ /auth/logout.html				LogOutController				/auth/LoginFail.jsp
-+ /member/list.html				MemberListController			/member/MemberList.jsp
-+ /member/update.html?id=		MemberUpdateController			/member/MemberUpdateForm.jsp
-+ /member/add.html				MemberAddController				/member/MemberForm.jsp
-+ /member/delete.html?id=		MemberDeleteController			/member/MemberList.jsp
++ /auth/login.html					LogInController					/auth/LoginForm.jsp
++ /auth/logout.html					LogOutController				/auth/LoginFail.jsp
++ /member/list.html					MemberListController			/member/MemberList.jsp
++ /member/update.html?id=				MemberUpdateController			/member/MemberUpdateForm.jsp
++ /member/add.html					MemberAddController				/member/MemberForm.jsp
++ /member/delete.html?id=				MemberDeleteController			/member/MemberList.jsp
 
 
 ## Filter
